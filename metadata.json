@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Classification Dashboard",
+  "description": "Dashboard interativo para predição da espécie da flor Iris com base em medidas morfológicas de sépalas e pétalas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
